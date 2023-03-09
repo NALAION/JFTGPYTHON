@@ -1,0 +1,12 @@
+PS E:\JFTGPYTHON> git init
+
+PS E:\JFTGPYTHON> git remote add origin https://github.com/NALAION/JFTGPYTHON.git
+PS E:\JFTGPYTHON> git status
+
+PS E:\JFTGPYTHON> git add uno.py  
+PS E:\JFTGPYTHON> git add dos.py 
+
+PS E:\JFTGPYTHON> git status
+On branch master
+
+PS E:\JFTGPYTHON> git commit -m "Dia 1"
